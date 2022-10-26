@@ -1,0 +1,10 @@
+{
+    "assignments" : [
+        {"id" : 1, "name" : "Read the exercise", "complete" : false, "tag" : "English"},
+        {"id" : 2, "name" : "Write the exercise", "complete" : false, "tag" : "Math"},
+        {"id" : 3, "name" : "Do the exercise", "complete" : false, "tag" : "Math"},
+        {"id" : 1, "name" : "Work out", "complete" : false, "tag" : "Exercise"},
+        {"id" : 2, "name" : "Train running", "complete" : false, "tag" : "Exercise"},
+        {"id" : 3, "name" : "Sleep well", "complete" : false, "tag" : "Mental"}
+    ]
+}
